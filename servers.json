@@ -1,0 +1,85 @@
+[
+  {
+    "title": "Minter Mundo",
+    "ip": "mintermundo.exaroton.me",
+    "icon": "https://res.cloudinary.com/dpjwxsbgw/image/upload/v1728880368/mintermundo_mlgpum.jpg",
+    "description": "No description.",
+    "tags": []
+  },
+  {
+    "title": "Galactus Minecraft",
+    "ip": "galactus.servermc.xyz",
+    "icon": "https://res.cloudinary.com/dpjwxsbgw/image/upload/v1728880069/Galactus_sleao7.png",
+    "description": "¡Unete Y Empieza Tu gran Aventura!",
+    "tags": [
+      "SURVIVAL",
+      "BOXPVP"
+    ]
+  },
+  {
+    "title": "Netcraft | Network",
+    "ip": "desafiont.vyxtersv.com",
+    "icon": "https://res.cloudinary.com/dpjwxsbgw/image/upload/v1728880542/netcraft_pere8n.jpg",
+    "description": "🎮 ¡Únete a nuestro increíble servidor de Minecraft Bedrock y Java! 🎮",
+    "tags": [
+      "SURVIVAL",
+      "BOXPVP"
+    ]
+  },
+  {
+    "title": "Mineflow",
+    "ip": "mineflow.xyz",
+    "icon": "https://res.cloudinary.com/dpjwxsbgw/image/upload/v1728609658/mineflow_nacx01.jpg",
+    "description": "Mineflow es un servidor basado en las modalidades survivals y pvps.",
+    "tags": [
+      "SURVIVAL"
+    ]
+  },
+  {
+    "title": "MineKrust",
+    "ip": "minekrust.lat",
+    "icon": "https://res.cloudinary.com/dpjwxsbgw/image/upload/v1728609772/minekrust_icon_fsyvpi.png",
+    "description": "No description.",
+    "tags": [
+      "SURVIVAL"
+    ]
+  },
+  {
+    "title": "Hyground",
+    "ip": "hyground.minehost.pro",
+    "icon": "https://res.cloudinary.com/dpjwxsbgw/image/upload/v1728879950/H_qa5xxl.jpg",
+    "description": "Sos amante de lo medieval? ¿De los nombres mitológicos? ¡Este es tu servidor!",
+    "tags": [
+      "SURVIVAL",
+      "PVP",
+      "CASINO"
+    ]
+  },
+  {
+    "title": "Atlantis",
+    "ip": "Proximamente...",
+    "icon": "https://res.cloudinary.com/dpjwxsbgw/image/upload/v1728879990/Atlantis_rbft7p.jpg",
+    "description": "No description.",
+    "tags": [
+      "SURVIVAL",
+      "PVP",
+      "BUILDS"
+    ]
+  },
+  {
+    "title": "SolarCraft",
+    "ip": "solarcraft.xyz",
+    "icon": "https://res.cloudinary.com/dpjwxsbgw/image/upload/v1728880413/Solarcraft_kmhatw.jpg",
+    "description": "No description.",
+    "tags": [
+      "SURVIVAL"
+    ]
+  },
+  {
+    "title": "Nautical",
+    "ip": "Proximamente...",
+    "icon": "https://res.cloudinary.com/dpjwxsbgw/image/upload/v1728880446/nautical_j4zecs.jpg",
+    "description": "No description.",
+    "tags": []
+  }
+]
