@@ -92,5 +92,16 @@
       "SURVIVAL",
       "BOX"
     ]
+  },
+  {
+    "title": "MineLove | Network",
+    "ip": "play.minelove.xyz",
+    "icon": "https://res.cloudinary.com/dpjwxsbgw/image/upload/v1729392281/minelove2_amwzpo.png",
+    "description": "MineLove On Top",
+    "tags": [
+      "MINELOVE",
+      "BOXPVP",
+      "NETWORK"
+    ]
   }
 ]
