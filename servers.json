@@ -81,5 +81,16 @@
     "icon": "https://res.cloudinary.com/dpjwxsbgw/image/upload/v1728880446/nautical_j4zecs.jpg",
     "description": "No description.",
     "tags": []
+  },
+  {
+    "title": "EclipseValley",
+    "ip": "ECLIPSEVALLEY.XYZ",
+    "icon": "https://res.cloudinary.com/dpjwxsbgw/image/upload/v1729391767/ecplisevalley_hlzjez.webp",
+    "description": "Servidor en desarrollo, el cual busca nuevos usuarios y horizontes",
+    "tags": [
+      "PVP",
+      "SURVIVAL",
+      "BOX"
+    ]
   }
 ]
