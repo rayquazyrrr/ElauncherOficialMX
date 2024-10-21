@@ -45,14 +45,14 @@
     ]
   },
   {
-    "title": "Hyground",
-    "ip": "hyground.minehost.pro",
-    "icon": "https://res.cloudinary.com/dpjwxsbgw/image/upload/v1728879950/H_qa5xxl.jpg",
-    "description": "Sos amante de lo medieval? ¿De los nombres mitológicos? ¡Este es tu servidor!",
+    "title": "VixterMC 1.1 | NETWORK",
+    "ip": "vixtermc.com",
+    "icon": "https://res.cloudinary.com/dpjwxsbgw/image/upload/v1729483896/vixter_yjs13i.webp",
+    "description": "Abierto las 24h, ¿qué esperas para unirte?",
     "tags": [
-      "SURVIVAL",
-      "PVP",
-      "CASINO"
+      "SERVER",
+      "MINECRAFT",
+      "24/7"
     ]
   },
   {
@@ -108,7 +108,7 @@
     "title": "IMPERS",
     "ip": "impers.shockbyte.club",
     "icon": "https://res.cloudinary.com/dpjwxsbgw/image/upload/v1729439299/imeperio_1_uffaae.png",
-    "description": "Impers es un servidor que tiene modalidades survivals y pvp y mas modalidades.",
+    "description": "Impers es un servidor que tiene modalidades survivals y pvp y que cada tiempo se crea más modalidades",
     "tags": [
       "SURVIVAL",
       "NETWORK",
