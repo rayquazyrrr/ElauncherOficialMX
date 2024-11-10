@@ -114,5 +114,16 @@
       "NETWORK",
       "PVP"
     ]
+  },
+  {
+    "title": "Eserver | Elauncher",
+    "ip": "eserver.xerohost.net",
+    "icon": "https://res.cloudinary.com/dpjwxsbgw/image/upload/v1731219579/icons8-e-100_jsegaf.png",
+    "description": "servidor Minecraft optimizado con modalidades y eventos. ¡Únete a la aventura!",
+    "tags": [
+      "Minecraft",
+      "Elauncher",
+      "PVP"
+    ]
   }
 ]
